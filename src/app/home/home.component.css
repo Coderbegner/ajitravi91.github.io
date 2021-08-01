@@ -1,0 +1,17 @@
+.timer {
+    text-align: center;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 1.4em;
+    letter-spacing: -1px;
+    color: white;
+    padding-top: 2rem;
+    
+  }
+  .timer span {
+    font-size: 2em;
+    margin: 0 3px 0 15px;
+  }
+  .clock
+  {
+    background: rgba(241, 78, 149, 0.8);
+  }
